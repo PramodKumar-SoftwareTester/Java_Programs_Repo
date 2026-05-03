@@ -11,7 +11,7 @@ public class Lab042_Interview_Concat_Plus {
         String first_name = "Pramod";
         String last_name = "Kumar";
         System.out.println(first_name + last_name);
-//        System.out.println(first_name-last_name);
+//       System.out.println(first_name-last_name);
 //        System.out.println(first_name*last_name);
 //        System.out.println(first_name/last_name);
 

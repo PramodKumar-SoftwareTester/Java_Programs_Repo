@@ -49,7 +49,7 @@ public class Functions_User_defined {
         //  2. Without Parameters but With Return Type
         static String wop_wr_greet_2() {
             System.out.println("Hi, Type 2 Function!");
-            return "Mansoor";
+            return "Mansoor";//sample
         }
 
         //  3. With Parameters and Without Return Type ( 90%)
